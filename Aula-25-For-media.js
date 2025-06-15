@@ -5,4 +5,4 @@ let somaDeNotas = 0
 for (let i = 0; i < notas.length; i++) {
     somaDeNotas += notas[i]
 }
-  console.log(somaDeNotas)
+console.log(somaDeNotas / notas.length)
